@@ -1,8 +1,8 @@
 ######################################################################################################################
 # Name: Norman Cook
 # Date: 9/20/2019
-# Description: Plots a specified number of points at random positions filled with
-#               a random color from a list.
+# Description: Plots a specified number of points at random positions on a canvas, and each point
+#   is filled with one random color from a list of designated colors.
 ######################################################################################################################
 from Tkinter import *
 from random import randint
