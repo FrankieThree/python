@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --add-data "ShackleOpen.png" --add-data "ShackleClosed.png" --add-data "Lock base.png" --name=CYBERSTORM main.py
